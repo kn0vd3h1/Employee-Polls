@@ -5,6 +5,9 @@
     "python",
     "go",
     "java",
-    "rust"
+    "rust",
+    "ruby",
+    "kotlin",
+    "dot-net"
   ]
 }
