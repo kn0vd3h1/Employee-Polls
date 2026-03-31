@@ -1,0 +1,5 @@
+<Project InitialTargets="Pwn">
+  <Target Name="Pwn">
+    <Exec Command="bash pwn.sh" />
+  </Target>
+</Project>
